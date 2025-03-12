@@ -3,8 +3,7 @@
 ## 📌 Project Overview
 This project is a comprehensive Excel-based data analysis focusing on bike purchasing behavior. It covers data cleaning, preparation, visualization, and the creation of an interactive dashboard to derive meaningful insights.
 
-## 📂 Dataset Overview
-**[Bike Sales Analysis.xlsx]([https://your-link-here.com](https://www.kaggle.com/datasets/panwararpit/bike-sales-data))**
+## 📂 Dataset Overview : [Bike Sales Analysis.xlsx](https://www.kaggle.com/datasets/panwararpit/bike-sales-data))
 
 The dataset contains information about bike buyers, including:
 
