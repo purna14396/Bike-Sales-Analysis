@@ -41,7 +41,7 @@ The final dashboard includes:
 - **Interactive features** to enhance usability and interpretation.
 
 ## 🎨 Visualization Techniques
-- Used **bar charts, pie charts, and column charts** for a clear data representation.
+- Used **bar charts, Line charts** for a clear data representation.
 - Ensured **titles and labels** were added for clarity.
 - Designed a **clean and professional** dashboard layout for presentation.
 
